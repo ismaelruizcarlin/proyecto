@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<controlTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>09-05-2022 09:45:15</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>12121212A</sDNIPropietario>
+            <sMatricula>1234AAA</sMatricula>
+            <sModelo>Ibiza 1.2 TSI</sModelo>
+            <sPropietario>Juan</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Fatal</sDiagnostico>
+        <sResolucion>Tirarlo</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>09-05-2022 09:46:25</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>34343434C</sDNIPropietario>
+            <sMatricula>3434BBB</sMatricula>
+            <sModelo>Opel Corsa 1.1D</sModelo>
+            <sPropietario>José</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Peor que una burra mal alimentá</sDiagnostico>
+        <sResolucion>No tiene</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>09-05-2022 09:45:15</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>12121212A</sDNIPropietario>
+            <sMatricula>5555AAA</sMatricula>
+            <sModelo>Ibiza 1.2 TSI</sModelo>
+            <sPropietario>Juan</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Esta estupendo</sDiagnostico>
+        <sResolucion>Tirarlo</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>09-05-2022 09:46:25</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>34343434C</sDNIPropietario>
+            <sMatricula>3434CBB</sMatricula>
+            <sModelo>Seat León 1.1D</sModelo>
+            <sPropietario>José</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Esto es nuevo</sDiagnostico>
+        <sResolucion>No tiene</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>11-05-2022 10:28:35</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>121</sDNIPropietario>
+            <sMatricula>12</sMatricula>
+            <sModelo>1231</sModelo>
+            <sPropietario>1213</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>32132</sDiagnostico>
+        <sResolucion>321321</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>12-05-2022 19:51:01</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>32323232S</sDNIPropietario>
+            <sMatricula>1234AZA</sMatricula>
+            <sModelo>Ford Fiesta 1.0 D</sModelo>
+            <sPropietario>Pedro</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>4.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Necesita cambiar discos</sDiagnostico>
+        <sResolucion>Cambio de discos frenos</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>12-05-2022 19:52:43</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>89898989W</sDNIPropietario>
+            <sMatricula>4321CCC</sMatricula>
+            <sModelo>ford focus</sModelo>
+            <sPropietario>Paco</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>2.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>cambio ruedas</sDiagnostico>
+        <sResolucion>cambiar 4 ruedas</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>12-05-2022 20:01:14</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>45454545R</sDNIPropietario>
+            <sMatricula>5544SDS</sMatricula>
+            <sModelo>Opel Astra</sModelo>
+            <sPropietario>Tomás</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>8.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Luna delantera rota</sDiagnostico>
+        <sResolucion>Cambiar luna delantera</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>12-05-2022 20:02:38</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>55665566F</sDNIPropietario>
+            <sMatricula>3333HJH</sMatricula>
+            <sModelo>Ford Mondeo</sModelo>
+            <sPropietario>David</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>4.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Tuboescape atorado</sDiagnostico>
+        <sResolucion>Limpiar escape</sResolucion>
+    </listaTrabajos>
+    <listaTrabajos>
+        <fechaEntrada>12-05-2022 20:13:08</fechaEntrada>
+        <miVehiculo>
+            <sDNIPropietario>88998899E</sDNIPropietario>
+            <sMatricula>1212FFF</sMatricula>
+            <sModelo>Opel Zafira</sModelo>
+            <sPropietario>Juan Antonio</sPropietario>
+        </miVehiculo>
+        <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+        <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+        <sDiagnostico>Luz intermitente fundida</sDiagnostico>
+        <sResolucion>Cambiar luz intermitente</sResolucion>
+    </listaTrabajos>
+</controlTrabajos>

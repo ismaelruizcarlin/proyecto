@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trabajoTaller>
+    <fechaEntrada>12-05-2022 20:01:14</fechaEntrada>
+    <miVehiculo>
+        <sDNIPropietario>45454545R</sDNIPropietario>
+        <sMatricula>5544SDS</sMatricula>
+        <sModelo>Opel Astra</sModelo>
+        <sPropietario>Tomás</sPropietario>
+    </miVehiculo>
+    <fHorasTrabajoPrevistas>8.0</fHorasTrabajoPrevistas>
+    <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+    <sDiagnostico>Luna delantera rota</sDiagnostico>
+    <sResolucion>Cambiar luna delantera</sResolucion>
+</trabajoTaller>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trabajoTaller>
+    <fechaEntrada>12-05-2022 20:02:38</fechaEntrada>
+    <miVehiculo>
+        <sDNIPropietario>55665566F</sDNIPropietario>
+        <sMatricula>3333HJH</sMatricula>
+        <sModelo>Ford Mondeo</sModelo>
+        <sPropietario>David</sPropietario>
+    </miVehiculo>
+    <fHorasTrabajoPrevistas>4.0</fHorasTrabajoPrevistas>
+    <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+    <sDiagnostico>Tuboescape atorado</sDiagnostico>
+    <sResolucion>Limpiar escape</sResolucion>
+</trabajoTaller>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<trabajoTaller>
+    <fechaEntrada>12-05-2022 20:13:08</fechaEntrada>
+    <miVehiculo>
+        <sDNIPropietario>88998899E</sDNIPropietario>
+        <sMatricula>1212FFF</sMatricula>
+        <sModelo>Opel Zafira</sModelo>
+        <sPropietario>Juan Antonio</sPropietario>
+    </miVehiculo>
+    <fHorasTrabajoPrevistas>1.0</fHorasTrabajoPrevistas>
+    <fHorasTrabajoRealizadas>0.0</fHorasTrabajoRealizadas>
+    <sDiagnostico>Luz intermitente fundida</sDiagnostico>
+    <sResolucion>Cambiar luz intermitente</sResolucion>
+</trabajoTaller>
